@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrutimalode
-- 👀 I’m currently working on web development projects
-- 🌱 I’m currently learning **React** and **Node.js**  
+- 👀 I have knowledge of core java, SQL and Version Control Systems
+- 🌱 I’m currently learning **DevOps**
 - 💞️ I’m looking to collaborate on **open-source web projects and internships**  
 - 📫 How to reach me: **shrutimalodejain112004@gmail.com** 
 - 😄 Pronouns: **She/Her**  
