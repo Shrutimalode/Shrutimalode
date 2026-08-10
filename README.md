@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shruti Malode 👋</h1>
+
 
 - 👀 I have knowledge of Core Java, SQL and Version Control Systems
 - 🌱 I’m currently learning **DevOps**
